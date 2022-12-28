@@ -1,5 +1,6 @@
 <h1 align="center">Hello 👋, my name is Diana</h1>
 <h3 align="center">Full Stack Developer</h3>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Full+Stack+Developer)](https://git.io/typing-svg)
 
 <p align="left"> <a href="https: //github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=p-force" alt="p-force" /></a> </p>
 
