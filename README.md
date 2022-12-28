@@ -1,5 +1,5 @@
 <h1 align="center">Привет 👋, меня зовут Диана</h1>
-<h3 align="center">разработчик полного стека</h3>
+<h3 align="center">Full Stack Developer</h3>
 
 <p align="left"> <a href="https: //github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=p-force" alt="p-force" /></a> </p>
 
