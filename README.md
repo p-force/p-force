@@ -1,9 +1,9 @@
-<h1 align="center">Привет 👋, меня зовут Диана</h1>
+<h1 align="center">Hello 👋, my name is Diana</h1>
 <h3 align="center">Full Stack Developer</h3>
 
 <p align="left"> <a href="https: //github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=p-force" alt="p-force" /></a> </p>
 
-- 🌱 Сейчас я изучаю **Эльбрус Bootcamp**
+- 🌱 I am currently studying at **Elbrus Coding Bootcamp**
 
 - 📫 Как со мной связаться **https://t.me/b_ember**
 
