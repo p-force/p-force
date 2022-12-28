@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, my name is Diana</h1>
-<h3 align="center">Full Stack Developer</h3>
+<!-- <h3 align="center">Full Stack Developer</h3> -->
 <div class="container" text="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Full+Stack+Developer" alt="Typing SVG" /></a>
   </div>
