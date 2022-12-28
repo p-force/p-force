@@ -9,7 +9,7 @@
 
 <h3 align="left"> Свяжитесь со мной:</h3>
 <p align="left">
-<a href="[https://linkedin.com/in/diana latyrova](https://www.linkedin.com/in/diana-latyrova-23711a260/)" target="blank"><img align="center" src=" https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="диана латырова" height="30" width="40" /></ a>
+<a href="https://www.linkedin.com/in/diana-latyrova-23711a260/" target="blank"><img align="center" src=" https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="диана латырова" height="30" width="40" /></ a>
 </p>
 
 <h3 align="left">Языки и инструменты:</h3>
