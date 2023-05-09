@@ -3,9 +3,6 @@
 
 <p align="left"> <a href="https: //github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=p-force" alt="p-force" /></a> </p>
 
-<!-- - 🌱 I am currently studying at **Elbrus Coding Bootcamp** -->
-- 🌱 𝕀 𝕒𝕞 𝕔𝕦𝕣𝕣𝕖𝕟𝕥𝕝𝕪 𝕤𝕥𝕦𝕕𝕪𝕚𝕟𝕘 𝕒𝕥 **𝔼𝕝𝕓𝕣𝕦𝕤 ℂ𝕠𝕕𝕚𝕟𝕘 𝔹𝕠𝕠𝕥𝕔𝕒𝕞𝕡**
-
 - 📫 𝕊𝕠𝕔𝕚𝕒𝕝: **https://t.me/b_ember**
 
 
