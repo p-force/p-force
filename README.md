@@ -9,7 +9,7 @@
   <li>
     <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://d33wubrfki0l68.cloudfront.net/7a197cfe44548cc1a3f581152af70a3051e11671/78df8/img/babel.svg" alt="babel" width="40" height="40"/> </a> </li>
   <li>
-    <a href="https://www.gnu.org/software/bash/" target ="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40" /> </a> </li>
+    <a href="https://www.gnu.org/software/bash/" style="background=white" target ="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40" /> </a> </li>
   <li>
     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a></li>
   <li>
