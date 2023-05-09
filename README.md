@@ -1,8 +1,6 @@
 <h1 align="center">𝙷𝚎𝚕𝚕𝚘 👋, 𝚖𝚢 𝚗𝚊𝚖𝚎 𝚒𝚜 𝙳𝚒𝚊𝚗𝚊</h1>
 <h3 align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Full+Stack+Developer" alt="Typing SVG" /></a> </h3>
 
-<p align="left"> <a href="https: //github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=p-force" alt="p-force" /></a> </p>
-
 - 📫 𝕊𝕠𝕔𝕚𝕒𝕝: **https://t.me/b_ember**
 
 
