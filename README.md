@@ -1,5 +1,5 @@
 <h1 align="center">𝙷𝚎𝚕𝚕𝚘 👋</h1>
-<h1><img src="https://readme-typing-svg.demolab.com?font=&size=40&pause=1000&color=EEF710&background=FF781C00&center=true&vCenter=true&width=435&lines=Backend+Developer" align="center" alt="Typing SVG" /></h1>
+<h1  align="center"><img src="https://readme-typing-svg.demolab.com?font=&size=40&pause=1000&color=EEF710&background=FF781C00&center=true&vCenter=true&width=435&lines=Backend+Developer" alt="Typing SVG" /></h1>
 
 - 📫 𝕊𝕠𝕔𝕚𝕒𝕝: **https://t.me/b_ember**
 
