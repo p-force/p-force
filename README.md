@@ -1,5 +1,5 @@
 <h1 align="center">𝙷𝚎𝚕𝚕𝚘 👋, 𝚖𝚢 𝚗𝚊𝚖𝚎 𝚒𝚜 𝙳𝚒𝚊𝚗𝚊</h1>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=&size=40&pause=1000&color=EEF710&background=FF781C00&center=true&width=435&lines=Backend+Developer)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&size=40&pause=1000&color=EEF710&background=FF781C00&center=true&vCenter=true&width=435&lines=Backend+Developer" alt="Typing SVG" /></a>
 
 - 📫 𝕊𝕠𝕔𝕚𝕒𝕝: **https://t.me/b_ember**
 
