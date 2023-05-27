@@ -22,7 +22,7 @@
 ---
 
    <a target="_blank" href="https://www.linkedin.com/in/dianalat">
-     <img src="https://img.shields.io/badge/LinkedIn-20232A?style=for-the-badge&logo=linkedin" />
+     <img src="[https://img.shields.io/badge/LinkedIn-20232A?style=for-the-badge&logo=linkedin](https://i.pinimg.com/564x/0f/88/e7/0f88e7d9e6d11194f1f8b8aaab6233e7.jpg)" />
   </a>&nbsp;&nbsp;&nbsp;
   
 ---
