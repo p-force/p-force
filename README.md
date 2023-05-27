@@ -1,8 +1,6 @@
 <h1 align="center">𝙷𝚎𝚕𝚕𝚘 👋</h1>
 <h1  align="center"><img src="https://readme-typing-svg.demolab.com?font=&size=40&pause=1000&color=EEF710&background=FF781C00&center=true&vCenter=true&width=435&lines=Backend+Developer" alt="Typing SVG" /></h1>
 
-- 📫 𝕊𝕠𝕔𝕚𝕒𝕝: **https://t.me/b_ember**
-
 ---
 
 <img align="right" alt="Coding" width="300" height="300" src="https://i.seadn.io/gae/WXxBdMz5M26O5QWkwTINGYTdGvWq3edErejzPRwm2Vgobln0v3GPKsjpvnA-yNTFQDIai6ztKdBuD1NiR92bA9tLBfTmv0aH-XysMAY?auto=format&w=1920"/>
@@ -11,19 +9,19 @@
 
 ---
 
-  <a target="_blank" href="mailto:sabrendaa@gmail.com">
+  <a target="_blank" href="mailto:diana.latyrova@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-20232A?style=for-the-badge&logo=gmail" />
   </a>&nbsp;&nbsp;&nbsp;
 
 ---
 
-  <a target="_blank" href="https://t.me/sabrenda">
+  <a target="_blank" href="https://t.me/b_ember">
     <img src="https://img.shields.io/badge/Telegram-20232A?style=for-the-badge&logo=telegram" />
   </a>&nbsp;&nbsp;&nbsp;
   
 ---
 
-   <a target="_blank" href="https://www.linkedin.com/in/akhmed-akhmatov-28aab9251/">
+   <a target="_blank" href="https://www.linkedin.com/in/dianalat">
      <img src="https://img.shields.io/badge/LinkedIn-20232A?style=for-the-badge&logo=linkedin" />
   </a>&nbsp;&nbsp;&nbsp;
   
