@@ -28,7 +28,7 @@
 ---
 
 <br/>
-<h3 align="left">👨🏻‍💻 My Tech Stack:</h3>
+<!-- <h3 align="left">👨🏻‍💻 My Tech Stack:</h3>
 
 Techonologies | Description                 | Tools
 --- |-----------------------------| ---
@@ -43,4 +43,4 @@ Techonologies | Description                 | Tools
 ![Future learning](https://img.shields.io/badge/Future--learning-20232A?style=for-the-badge)| no pain no gain 2x | ![Go](https://img.shields.io/badge/Go-20232A?style=for-the-badge&logo=go) ![Rust](https://img.shields.io/badge/Rust-20232A?style=for-the-badge&logo=rust)
 
 <br />
-<br />
+<br /> -->
