@@ -1,9 +1,9 @@
 <h1 align="center">𝙷𝚎𝚕𝚕𝚘 👋</h1>
-<h1  align="center"><img src="https://readme-typing-svg.demolab.com?font=&size=40&pause=1000&color=EEF710&background=FF781C00&center=true&vCenter=true&width=435&lines=FullStack+Developer" alt="Typing SVG" /></h1>
+<h1  align="center"><img src="https://readme-typing-svg.demolab.com?font=&size=40&pause=1000&color=EEF710&background=FF781C00&center=true&vCenter=true&width=440&lines=FullStack+Developer" alt="Typing SVG" /></h1>
 
 ---
 
-<img align="right" alt="Coding" width="400" height="400" src="https://i.seadn.io/gae/WXxBdMz5M26O5QWkwTINGYTdGvWq3edErejzPRwm2Vgobln0v3GPKsjpvnA-yNTFQDIai6ztKdBuD1NiR92bA9tLBfTmv0aH-XysMAY?auto=format&w=1930"/>
+<img align="right" alt="Coding" width="350" height="350" src="https://i.seadn.io/gae/WXxBdMz5M26O5QWkwTINGYTdGvWq3edErejzPRwm2Vgobln0v3GPKsjpvnA-yNTFQDIai6ztKdBuD1NiR92bA9tLBfTmv0aH-XysMAY?auto=format&w=1920"/>
 
 <h3 align="left">💬 Find me:</h3>
 
