@@ -4,6 +4,7 @@
 ---
 
 <img align="right" alt="Coding" width="350" height="350" src="https://i.seadn.io/gae/WXxBdMz5M26O5QWkwTINGYTdGvWq3edErejzPRwm2Vgobln0v3GPKsjpvnA-yNTFQDIai6ztKdBuD1NiR92bA9tLBfTmv0aH-XysMAY?auto=format&w=1920"/>
+<img align="right" alt="Coding" width="350" height="350" src="[https://i.seadn.io/gae/WXxBdMz5M26O5QWkwTINGYTdGvWq3edErejzPRwm2Vgobln0v3GPKsjpvnA-yNTFQDIai6ztKdBuD1NiR92bA9tLBfTmv0aH-XysMAY?auto=format&w=1920](https://i.giphy.com/media/nBvri64uO4sX6/giphy.webp)"/>
 
 <h3 align="left">💬 Find me:</h3>
 
