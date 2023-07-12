@@ -1,30 +1,33 @@
-<h1 align="center">𝙷𝚎𝚕𝚕𝚘 👋</h1>
-<h1  align="center"><img src="https://readme-typing-svg.demolab.com?font=&size=35&pause=1000&color=EEF710&background=FF781C00&center=true&vCenter=true&width=440&lines=FullStack+Developer" alt="Typing SVG" /></h1>
+<!--<h1 align="center">𝙷𝚎𝚕𝚕𝚘 👋</h1>-->
+<!--<h1 align="center"><img src="https://readme-typing-svg.demolab.com?size=40&color=184F80&repeat=false&width=435&lines=Dattebayo" alt="Typing SVG" /></h1>-->
+<h1 align="center"><img src="https://readme-typing-svg.demolab.com?size=40&color=FE310AFF&repeat=false&width=435&lines=Dattebayo" alt="Typing SVG" /></h1>
+<!-- <h1  align="center"><img src="https://readme-typing-svg.demolab.com?font=&size=35&pause=1000&color=EEF710&background=FF781C00&center=true&vCenter=true&width=440&lines=FullStack+Developer" alt="Typing SVG" /></h1> -->
 
----
 
-<img align="right" alt="Coding" width="350" height="350" src="https://i.seadn.io/gae/WXxBdMz5M26O5QWkwTINGYTdGvWq3edErejzPRwm2Vgobln0v3GPKsjpvnA-yNTFQDIai6ztKdBuD1NiR92bA9tLBfTmv0aH-XysMAY?auto=format&w=1920"/>
-<img align="right" alt="Coding" width="350" height="350" src="[https://i.seadn.io/gae/WXxBdMz5M26O5QWkwTINGYTdGvWq3edErejzPRwm2Vgobln0v3GPKsjpvnA-yNTFQDIai6ztKdBuD1NiR92bA9tLBfTmv0aH-XysMAY?auto=format&w=1920](https://i.giphy.com/media/nBvri64uO4sX6/giphy.webp)"/>
+<img align="right" alt="Naruto" width="330" height="310" src="https://i.giphy.com/media/nBvri64uO4sX6/giphy.webp"/>
 
-<h3 align="left">💬 Find me:</h3>
-
----
-
-  <a target="_blank" href="mailto:diana.latyrova@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-20232A?style=for-the-badge&logo=gmail" />
-  </a>&nbsp;&nbsp;&nbsp;
-
----
-
+  <br />
   <a target="_blank" href="https://t.me/b_ember">
     <img src="https://img.shields.io/badge/Telegram-20232A?style=for-the-badge&logo=telegram" />
   </a>&nbsp;&nbsp;&nbsp;
   
+  <br />
+  
 ---
 
-   <a target="_blank" href="https://www.linkedin.com/in/dianalat">
-     <img src="https://img.shields.io/badge/LinkedIn-20232A?style=for-the-badge&logo=linkedin" />
+  <br/>
+    <a target="_blank" href="https://www.linkedin.com/in/dianalat">
+       <img src="https://img.shields.io/badge/LinkedIn-20232A?style=for-the-badge&logo=linkedin" />
+    </a>&nbsp;&nbsp;&nbsp;
+  <br/>
+
+---
+
+<br/>
+   <a target="_blank" href="mailto:diana.latyrova@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-20232A?style=for-the-badge&logo=gmail" />
   </a>&nbsp;&nbsp;&nbsp;
+<br/>
   
 ---
 
