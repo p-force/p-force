@@ -1,7 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F79243&random=false&width=435&lines=Dattebayo!)](https://git.io/typing-svg)
-<style>
-@import url('https://fonts.googleapis.com/css2?family=Protest+Revolution&display=swap')
-</style>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=30&pause=1000&color=F79243&center=true&vCenter=true&random=false&width=435&lines=Dattebayo!" alt="Typing SVG" /></a>
 
 <img align="right" alt="Naruto" width="330" height="310" src="https://i.giphy.com/media/nBvri64uO4sX6/giphy.webp"/>
 
