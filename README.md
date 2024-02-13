@@ -1,5 +1,4 @@
-<h1 align="center"><img src="https://readme-typing-svg.demolab.com?size=40&color=184F80&repeat=false&width=435&lines=Dattebayo" alt="Typing SVG" /></h1>
-<!-- <h1  align="center"><img src="https://readme-typing-svg.demolab.com?-font=&size=35&pause=1000&color=EEF710&background=FF781C00&center=true&vCenter=true&width=440&lines=FullStack+Developer" alt="Typing SVG" /></h1> -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F79243&random=false&width=435&lines=Dattebayo!)](https://git.io/typing-svg)
 
 
 <img align="right" alt="Naruto" width="330" height="310" src="https://i.giphy.com/media/nBvri64uO4sX6/giphy.webp"/>
