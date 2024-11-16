@@ -4,20 +4,13 @@
 <!-- <img align="right" alt="Naruto" width="330" height="310" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6GvYoNUzQ4YaxHAatttr6bk4I8FE5IsZzog&usqp=CAU"/>-->
 
   <br />
+  <div>
   <a target="_blank" href="https://t.me/b_ember">
     <img src="https://img.shields.io/badge/Telegram-20232A?style=for-the-badge&logo=telegram" />
   </a>&nbsp;&nbsp;&nbsp;
-  
+   </div>
   <br />
   
----
-
-  <br/>
-    <a target="_blank" href="https://www.linkedin.com/in/dianalat">
-       <img src="https://img.shields.io/badge/LinkedIn-20232A?style=for-the-badge&logo=linkedin" />
-    </a>&nbsp;&nbsp;&nbsp;
-  <br/>
-
 ---
 
 <br/>
