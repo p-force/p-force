@@ -2,7 +2,7 @@
 
  <!-- <img align="right" alt="Naruto" width="330" height="310" src="https://i.giphy.com/media/nBvri64uO4sX6/giphy.webp"/> -->
 <!-- <img align="right" alt="Naruto" width="330" height="310" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6GvYoNUzQ4YaxHAatttr6bk4I8FE5IsZzog&usqp=CAU"/>-->
-  
+ <!-- https://docs.github.com/ru/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax -->
 ---
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=30&pause=1000&color=F79243&center=true&vCenter=true&random=false&width=435&lines=Dattebayo!" alt="Typing SVG" /></a>
