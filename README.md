@@ -25,6 +25,9 @@
 ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Fastify](https://img.shields.io/badge/fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white)
+![Puppeteer](https://img.shields.io/badge/puppeteer-%252e8555.svg?style=for-the-badge&logo=puppeteer&logoColor=black&color=%232e8555)
+![Playwright](https://img.shields.io/badge/playwright-%252e8555.svg?style=for-the-badge&color=black)
+
 
 ---
 
