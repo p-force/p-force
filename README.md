@@ -9,7 +9,7 @@
  -->
 ---
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=30&pause=1000&color=F79243&center=true&vCenter=true&random=false&width=435&lines=Dattebayo!" alt="Typing SVG" /></a>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=30&pause=1000&color=F79243&center=true&vCenter=true&random=false&width=435&lines=Dattebayo!" alt="Typing SVG" /></a>
 
  <img align="right" alt="Naruto" width="330" height="310" src="https://i.giphy.com/media/nBvri64uO4sX6/giphy.webp"/> 
 <!-- <img align="right" alt="Naruto" width="330" height="310" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6GvYoNUzQ4YaxHAatttr6bk4I8FE5IsZzog&usqp=CAU"/> -->
@@ -19,13 +19,15 @@
 ---
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+<!--![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)-->
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+<!---->
 ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) 
-
+<!---->
+![GO](https://img.shields.io/badge/Go-00ADD8?logo=Go&logoColor=white&style=for-the-badge)
 ---
-
+<!--
 ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Fastify](https://img.shields.io/badge/fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white)
@@ -79,7 +81,7 @@
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
 
 ---
-
+-->
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
@@ -102,7 +104,6 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
   
----
 
 <br/>
 
