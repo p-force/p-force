@@ -1,6 +1,6 @@
 # Diana Latyrova
 
-Backend Developer — Go / PHP
+Backend Developer — Go / Node.js
 
 Разрабатываю backend-сервисы и REST API. Работаю с PostgreSQL,
 Redis, Kafka, RabbitMQ, Docker и Kubernetes.
