@@ -9,5 +9,5 @@ Redis, Kafka, RabbitMQ, Docker и Kubernetes.
 
 - [Road to Offer](https://github.com/p-force/road-to-offer) — platform for backend interview preparation
 - [Salon Management API](https://github.com/p-force/salon-management-api) — Node.js, MySQL and Docker
-- [Token Scraper](https://github.com/p-force/token-scraper) — Утилита для автоматического сбора токенов с сайта dexscreener, обходящая защиту Cloudflare, и временно сохраняющая их в Redis. Node.js, Puppeteer, Redis, Axios, Chromium (через @sparticuz/chromium), Xvfb
+- [Token Scraper](https://github.com/p-force/token_scraper) — Утилита для автоматического сбора токенов с сайта dexscreener, обходящая защиту Cloudflare, и временно сохраняющая их в Redis. Node.js, Puppeteer, Redis, Axios, Chromium (через @sparticuz/chromium), Xvfb
 
